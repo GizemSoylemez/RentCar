@@ -1,0 +1,14 @@
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\bin\Debug\netcoreapp2.1\RentCar.Data.deps.json
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\bin\Debug\netcoreapp2.1\RentCar.Data.dll
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\obj\Debug\netcoreapp2.1\RentCar.Data.csprojAssemblyReference.cache
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\obj\Debug\netcoreapp2.1\RentCar.Data.csproj.CoreCompileInputs.cache
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\obj\Debug\netcoreapp2.1\RentCar.Data.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\obj\Debug\netcoreapp2.1\RentCar.Data.AssemblyInfo.cs
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\bin\Debug\netcoreapp2.1\RentCar.Data.pdb
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\obj\Debug\netcoreapp2.1\RentCar.Data.dll
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\obj\Debug\netcoreapp2.1\RentCar.Data.pdb
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\bin\Debug\netcoreapp2.1\RentCar.Entity.dll
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\bin\Debug\netcoreapp2.1\RentCar.Entity.pdb
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\obj\Debug\netcoreapp2.1\RentCar.Data.csproj.CopyComplete
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\bin\Debug\netcoreapp2.1\RentCar.Data.runtimeconfig.json
+C:\Users\gizem\Desktop\coreapp\RentCar\RentCar.Data\bin\Debug\netcoreapp2.1\RentCar.Data.runtimeconfig.dev.json
